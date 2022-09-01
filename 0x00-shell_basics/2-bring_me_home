@@ -1,3 +1,2 @@
 #!/bin/bash
-shopt -s autocd
-home
+cd /home
